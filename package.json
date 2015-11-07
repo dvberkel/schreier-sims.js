@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/dvberkel/schreier-sims.js/issues"
   },
-  "homepage": "https://github.com/dvberkel/schreier-sims.js#readme"
+  "homepage": "https://github.com/dvberkel/schreier-sims.js#readme",
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
 }
